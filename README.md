@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Welcome to my GitHub page 🤘 </h1>
+<h1 align="center">Welcome to my GitHub page! I'm Dan 🤘 </h1>
 <p align="center">
   <b>"Numbers are as close as we get to the handwriting of God"</b><br><br>
   <b>IT & Data Leader · DBA · Data-Analyst</b><br>
