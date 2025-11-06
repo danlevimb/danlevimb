@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/SSIS-1F2430?logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white" />
 </p>
