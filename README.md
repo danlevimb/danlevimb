@@ -1,8 +1,4 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="banner_github.png" alt="Dan Levi - Data & IT Leader" width="80%">
-</p>
-
 <h1 align="center">Welcome to my GitHub page! I'm Dan 🤘 </h1>
 <p align="center">
   <b>"Numbers are as close as we get to the handwriting of God"</b><br><br>
@@ -28,7 +24,7 @@
 
 ---
 
-## 👤 About me
+## 👨🏻‍💻About me
 - Problem-solver, meticulous and improvement-driven. I listen more than I speak; when I do, I aim for clarity and precision.
 - 20+ yrs in **SQL Server** ecosystems: admin, tuning, ETL, and event-driven integrations.
 - Passionate about clean, scalable solutions that make things **“one second faster.”**
