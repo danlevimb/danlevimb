@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Welcome to my repo! I'm Dan 🤘 </h1>
 <p align="center">
-  <b>"Numbers are as close as we get to the handwriting of God"</b><br>
+  <b>"Numbers are as close as we get to the handwriting of God"</b><br><br>
   <b>IT & Data Leader · DBA · Data-Analyst</b><br>
   Turning complex systems into efficient, data-driven solutions.
 </p>
