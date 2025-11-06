@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/danlevimb">
+  <a href="https://www.linkedin.com/in/danlevimb/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://public.tableau.com/app/profile/dan.levi.menchaca.bedolla/vizzes">
