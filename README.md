@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Welcomen to my repo! I'm Dan 🤘 </h1>
+<h1 align="center">Welcome to my repo! I'm Dan 🤘 </h1>
 <p align="center">
   <b>IT & Data Leader · DBA · Data-Analyst</b><br>
   Turning complex systems into efficient, data-driven solutions.
@@ -60,7 +60,7 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=danlevimb&theme=transparent" alt="Dan's Streak"/>
 </div>
 <div align="center">
-  <img height="150" src="https://public.tableau.com/app/profile/danlevimb/vizzes" alt="Top Langs"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlevimb&layout=compact&theme=transparent" alt="Top Langs"/>
 </div>
 
 ---
