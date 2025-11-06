@@ -1,5 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Welcome to my repo! I'm Dan 🤘 </h1>
+<h2 align="center">Welcome to my repo! I'm Dan 🤘 </h2>
 <p align="center">
   <b>IT & Data Leader · DBA · Data-Analyst</b><br>
   Turning complex systems into efficient, data-driven solutions.
