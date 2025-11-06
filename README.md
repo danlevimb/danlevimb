@@ -48,7 +48,7 @@
 
 ## 📌 Featured projects
 - **CallMeMaybe – Churn Analysis** · Python (pandas, NumPy, matplotlib, seaborn), Logistic Regression & Decision Trees, dashboards & insights.  
-  Repo: `soon` · Demo: `soon`
+  Repo: [Here!](https://github.com/danlevimb/CallMeMaybe) · Demo: `soon`
 - **Brent vs WTI – Energy Spread Dashboard** · Tableau · ETL + KPIs (volatility, drawdowns, moving averages).  
   Repo: `soon` · Viz: [Tableau Public](https://public.tableau.com/app/profile/danlevimb/vizzes)
 
