@@ -1,4 +1,8 @@
 <!-- Profile Header -->
+<p align="center">
+  <img src="banner_github.png" alt="Dan Levi - Data & IT Leader" width="100%">
+</p>
+
 <h1 align="center">Welcome to my GitHub page! I'm Dan 🤘 </h1>
 <p align="center">
   <b>"Numbers are as close as we get to the handwriting of God"</b><br><br>
