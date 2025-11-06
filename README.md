@@ -62,7 +62,7 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=danlevimb&theme=transparent" alt="Dan's Streak"/>
 </div>
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlevimb&layout=compact&theme=transparent" alt="Top Langs"/>
+  <img height="150" src="https://public.tableau.com/app/profile/danlevimb/vizzes" alt="Top Langs"/>
 </div>
 
 ---
