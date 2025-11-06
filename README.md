@@ -1,7 +1,7 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Dan Levi 👋</h1>
+<h1 align="center">Welcomen to my repo! I'm Dan 🤘 </h1>
 <p align="center">
-  <b>IT & Data Leader · DBA · Data Analyst</b><br>
+  <b>IT & Data Leader · DBA · Data-Analyst</b><br>
   Turning complex systems into efficient, data-driven solutions.
 </p>
 
@@ -51,8 +51,6 @@
   Repo: `soon` · Demo: `soon`
 - **Brent vs WTI – Energy Spread Dashboard** · Tableau · ETL + KPIs (volatility, drawdowns, moving averages).  
   Repo: `soon` · Viz: [Tableau Public](https://public.tableau.com/app/profile/danlevimb/vizzes)
-
-> *Pin these repos in your profile once they’re public.*
 
 ---
 
