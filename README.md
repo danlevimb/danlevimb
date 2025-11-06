@@ -33,7 +33,7 @@
 ---
 
 ## 🛠️ Languages & Tools
-<p><img src="https://img.shields.io/badge/IELTS-white" /></p>
+<p><img src="https://img.shields.io/badge/IELTS-6.0-white" /></p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
