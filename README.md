@@ -50,7 +50,7 @@
 - **CallMeMaybe – Churn Analysis** · Python (pandas, NumPy, matplotlib, seaborn), Logistic Regression & Decision Trees, dashboards & insights.  
   Repo: `soon` · Demo: `soon`
 - **Brent vs WTI – Energy Spread Dashboard** · Tableau · ETL + KPIs (volatility, drawdowns, moving averages).  
-  Repo: `soon` · Viz: [Tableau Public](https://public.tableau.com/app/profile/dan.levi.menchaca.bedolla/vizzes)
+  Repo: `soon` · Viz: [Tableau Public](https://public.tableau.com/app/profile/danlevimb/vizzes)
 
 > *Pin these repos in your profile once they’re public.*
 
