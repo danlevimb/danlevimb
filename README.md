@@ -48,10 +48,13 @@
 ---
 
 ## 📌 Featured projects
-- **CallMeMaybe – Churn Analysis** · Python (pandas, NumPy, matplotlib, seaborn), Logistic Regression & Decision Trees, dashboards & insights.  
-  Repo: [Here!](https://github.com/danlevimb/CallMeMaybe)
-- **Brent vs WTI – Energy Spread Dashboard** · Tableau · ETL + KPIs (volatility, drawdowns, moving averages).  
-  Viz: [Here!](https://public.tableau.com/app/profile/danlevimb/vizzes)
+- **[CallMeMaybe](https://github.com/danlevimb/CallMeMaybe)** – Telecom Analysis.
+  
+     A data analytics project evaluating telecom plan performance and user churn using Python (pandas, NumPy, matplotlib, seaborn), logistic regression & decision trees, dashboards & insights.
+  
+- **[Energy Multimarket Dashboard](https://public.tableau.com/app/profile/danlevimb/viz/Oil_prices_dash/Dashboard1)** - Oil prices comparisson 
+
+    Just foolin' around with Tableau and oil prices (Brent vs West Texas Intermediate)
 
 ---
 
