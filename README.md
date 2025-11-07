@@ -47,7 +47,7 @@
 
 ---
 
-## 📌 Featured projects
+## 📌 Data Analysis Projects
 - **[CallMeMaybe](https://github.com/danlevimb/CallMeMaybe)** – Telecom Analysis.
   
      A data analytics project evaluating telecom plan performance and user churn using Python (pandas, NumPy, matplotlib, seaborn), logistic regression & decision trees, dashboards & insights.
