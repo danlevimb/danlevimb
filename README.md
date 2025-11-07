@@ -52,7 +52,7 @@
   
      A data analytics project evaluating telecom plan performance and user churn using Python (pandas, NumPy, matplotlib, seaborn), logistic regression & decision trees, dashboards & insights.
   
-- **[Energy Multimarket Dashboard](https://public.tableau.com/app/profile/danlevimb/viz/Oil_prices_dash/Dashboard1)** - Oil prices comparisson 
+- **[Energy Multimarket Dashboard](https://public.tableau.com/app/profile/danlevimb/viz/Oil_prices_dash/Dashboard1)** - Oil prices comparisson.
 
     Just foolin' around with Tableau and oil prices (Brent vs West Texas Intermediate)
 
