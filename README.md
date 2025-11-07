@@ -55,6 +55,11 @@
 
 ---
 
+## 🏋🏽‍♂️ Formation
+- Take a look at my [career](https://github.com/danlevimb/certifications-and-achievements)!
+
+---
+
 ## 📊 My GitHub Stats
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=danlevimb&show_icons=true&rank_icon=github&theme=transparent" alt="Dan's GitHub stats"/>
