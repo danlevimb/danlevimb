@@ -1,9 +1,8 @@
 <!-- Profile Header -->
-<h1 align="center">Welcome to my GitHub page! I'm Dan 🤘 </h1>
+<h1 align="center">Welcome to my GitHub page! I'm Dan</h1>
 <p align="center">
-  <b>"Numbers are as close as we get to the handwriting of God"</b><br><br>
-  <b>IT & Data Leader · DBA · Data-Analyst</b><br>
-  Turning complex systems into efficient, data-driven solutions.
+  <b>Data Engineer | SQL & Data Systems Specialist | Cloud Data Engineering Focus</b><br>
+  Specializing in SQL-based systems, data integration, and scalable data architectures.
 </p>
 
 <p align="center">
