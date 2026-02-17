@@ -12,6 +12,9 @@
   <a href="https://public.tableau.com/app/profile/danlevimb/vizzes">
     <img src="https://img.shields.io/badge/Tableau%20Public-1F2430?style=for-the-badge&logo=tableau&logoColor=E97627" alt="Tableau Public"/>
   </a>
+  <a href="https://danlevimb.carrd.co/">
+    <img src="https://img.shields.io/badge/carrd-222?style=for-the-badge" alt="Email"/>
+  </a>
   <a href="mailto:danlevimb@gmail.com">
     <img src="https://img.shields.io/badge/Email-222?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -25,7 +28,7 @@
 
 ## 👨🏻‍💻About me
 - Problem-solver, meticulous and improvement-driven. I listen more than I speak; when I do, I aim for clarity and precision.
-- 20+ yrs in **SQL Server** ecosystems: admin, tuning, ETL, and event-driven integrations.
+- 20+ years designing and optimizing SQL-based data systems, ETL workflows, and event-driven integrations.
 - Passionate about clean, scalable solutions that make things **“one second faster.”**
 - Recently completed a **Data Analyst Bootcamp (TripleTen)** and pursuing a **Specialization in Multimarket Investment & Diversification**.
 
@@ -34,47 +37,27 @@
 ## 🛠️ Languages & Tools
 <p><img src="https://img.shields.io/badge/IELTS-6.0-white" /></p>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/T--SQL-1F2430?logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSIS-1F2430?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server%20%2F%20T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL%20%2F%20SSIS-1F2430?logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />    
+  <img src="https://img.shields.io/badge/AWS-E97627?logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 📌 Data Analysis Projects
+## 📌 Data Engineering Projects
 - **[CallMeMaybe](https://github.com/danlevimb/CallMeMaybe)** – Telecom Analysis.
   
-     A data analytics project evaluating telecom plan performance and user churn using Python (pandas, NumPy, matplotlib, seaborn), logistic regression & decision trees, dashboards & insights.
+     End-to-end data pipeline analyzing 5M+ telecom user events with ingestion, transformation, feature engineering, and modeling.
   
 - **[Energy Multimarket Dashboard](https://public.tableau.com/app/profile/danlevimb/viz/Oil_prices_dash/Dashboard1)** - Oil prices comparisson.
 
-    Just foolin' around with Tableau and oil prices (Brent vs West Texas Intermediate)
-
----
-
-## 🏋🏽‍♂️ Formation
-- Take a look at my [career](https://github.com/danlevimb/certifications-and-achievements)!
-
----
-
-## 📊 My GitHub Stats
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danlevimb&show_icons=true&rank_icon=github&theme=transparent" alt="Dan's GitHub stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=danlevimb&theme=transparent" alt="Dan's Streak"/>
-</div>
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlevimb&layout=compact&theme=transparent" alt="Top Langs"/>
-</div>
-
+    Exploratory dashboard analyzing Brent vs WTI oil price differentials using automated ETL workflows.
 ---
 
 ## 🤝 Let’s connect
-- Open to remote roles in **DBA, Data Engineering, BI/Analytics, and Data-driven transformation**.
+- Open to remote Data Engineering roles focused on scalable data systems and cloud-native architectures.
 - If you want to discuss **SQL performance, ETL, BI, or AI-assisted analytics**, ping me on LinkedIn or email.
 
 ---
