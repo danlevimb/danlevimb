@@ -46,6 +46,14 @@
 
 ---
 
+## 🚀 Current Focus
+- Developing a production-oriented SQL Backup & Recovery Automation Framework
+
+- Designing end-to-end data pipelines with Python
+
+- Expanding into cloud-native data engineering practices
+
+---
 ## 📌 Data Engineering Projects
 - **[CallMeMaybe](https://github.com/danlevimb/CallMeMaybe)** – Telecom Analysis.
   
