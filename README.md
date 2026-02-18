@@ -71,8 +71,6 @@
 
 ## 🤝 Let’s connect
 - Open to Data Engineering opportunities involving scalable SQL systems, ETL automation, and reliable data infrastructure.
-- If you want to discuss **SQL performance, ETL, BI, or AI-assisted analytics**, ping me on LinkedIn or email.
-
-Let’s collaborate on building resilient and production-ready data platforms.
+- If you want to discuss performance tuning, ETL workflow automation, restore validation strategies, or production-grade data systems, ping me on LinkedIn or email.
 
 ---
