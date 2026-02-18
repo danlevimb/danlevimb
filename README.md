@@ -55,6 +55,11 @@
 
 ---
 ## 📌 Data Engineering Projects
+
+- **[Automated Data Resilience Framework](https://github.com/danlevimb/automated-data-resilience-framework)** – Production-grade Backup & Restore framework for SQL Server.
+  
+     Modular data resilience framework for SQL Server that automates backup chains, restore validation, and point-in-time recovery in production environments.
+  
 - **[CallMeMaybe](https://github.com/danlevimb/CallMeMaybe)** – Telecom Analysis.
   
      End-to-end data pipeline analyzing 5M+ telecom user events with ingestion, transformation, feature engineering, and modeling.
@@ -65,7 +70,9 @@
 ---
 
 ## 🤝 Let’s connect
-- Open to remote Data Engineering roles focused on scalable data systems and cloud-native architectures.
+- Open to Data Engineering opportunities involving scalable SQL systems, ETL automation, and reliable data infrastructure.
 - If you want to discuss **SQL performance, ETL, BI, or AI-assisted analytics**, ping me on LinkedIn or email.
+
+Let’s collaborate on building resilient and production-ready data platforms.
 
 ---
