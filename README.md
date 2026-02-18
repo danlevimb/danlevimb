@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Welcome to my GitHub page! I'm Dan</h1>
 <p align="center">
-  <b>Data Engineer | SQL Server Specialist | Cloud Focus</b><br>
+  <b>Engineering reliable data infrastructure and automation-driven SQL systems.</b><br>
   Designing resilient data systems and scalable data pipelines.
 </p>
 
