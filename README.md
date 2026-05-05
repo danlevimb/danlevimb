@@ -1,8 +1,9 @@
 <!-- Profile Header -->
 <h1 align="center">Welcome to my GitHub page! I'm Dan</h1>
+
 <p align="center">
-  <b>Engineering reliable data infrastructure and automation-driven SQL systems.</b><br>
-  Designing resilient data systems and scalable data pipelines.
+  <b>Engineering reliable data infrastructure, event-driven pipelines, and automation-driven SQL systems.</b><br>
+  Designing resilient data systems with a focus on data quality, traceability, and operational reliability.
 </p>
 
 <p align="center">
@@ -13,7 +14,7 @@
     <img src="https://img.shields.io/badge/Tableau%20Public-1F2430?style=for-the-badge&logo=tableau&logoColor=E97627" alt="Tableau Public"/>
   </a>
   <a href="https://danlevimb.carrd.co/">
-    <img src="https://img.shields.io/badge/carrd-222?style=for-the-badge" alt="Email"/>
+    <img src="https://img.shields.io/badge/carrd-222?style=for-the-badge" alt="Carrd"/>
   </a>
   <a href="mailto:danlevimb@gmail.com">
     <img src="https://img.shields.io/badge/Email-222?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -26,51 +27,75 @@
 
 ---
 
-## 👨🏻‍💻About me
+## 👨🏻‍💻 About me
+
 - Problem-solver, meticulous and improvement-driven. I listen more than I speak; when I do, I aim for clarity and precision.
-- 20+ years designing and optimizing SQL-based data systems, ETL workflows, and event-driven integrations.
-- Passionate about clean, scalable solutions that make things **“one second faster.”**
-- Recently completed a **Data Analyst Bootcamp (TripleTen)** and pursuing a **Specialization in Multimarket Investment & Diversification**.
+- 20+ years designing, optimizing, and supporting SQL-based data systems, ETL workflows, and operational data processes.
+- Passionate about clean, scalable solutions that make systems **“one second faster.”**
+- Recently completed a **Data Analyst Bootcamp (TripleTen)** and currently expanding into cloud-native Data Engineering practices.
 
 ---
 
 ## 🛠️ Languages & Tools
-<p><img src="https://img.shields.io/badge/IELTS-6.0-white" /></p>
+
+<p>
+  <img src="https://img.shields.io/badge/IELTS-6.0-white" />
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server%20%2F%20T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/ETL%20%2F%20SSIS-1F2430?logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />    
-  <img src="https://img.shields.io/badge/AWS-E97627?logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Lake-1F2430?logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Current Focus
-- Developing a production-oriented SQL Backup & Recovery Automation Framework
 
-- Designing end-to-end data pipelines with Python
-
-- Expanding into cloud-native data engineering practices
+- Building Azure-based event-driven data pipelines using Medallion Architecture.
+- Developing a production-oriented SQL Server Backup & Recovery Automation Framework.
+- Strengthening cloud-native Data Engineering practices with Python, Azure Functions, Event Hub, and Data Lake Storage.
 
 ---
+
 ## 📌 Data Engineering Projects
 
-- **[Automated Data Resilience Framework](https://github.com/danlevimb/automated-data-resilience-framework)** – Production-grade Backup & Restore framework for SQL Server.
-  
-     Modular data resilience framework for SQL Server that automates backup chains, restore validation, and point-in-time recovery in production environments.
-  
-- **[CallMeMaybe](https://github.com/danlevimb/CallMeMaybe)** – Telecom Analysis.
-  
-     End-to-end data pipeline analyzing 5M+ telecom user events with ingestion, transformation, feature engineering, and modeling.
-  
-- **[Energy Multimarket Dashboard](https://public.tableau.com/app/profile/danlevimb/viz/Oil_prices_dash/Dashboard1)** - Oil prices comparisson.
+### 1. [Azure Event-Driven Data Pipeline](https://github.com/danlevimb/azure-event-driven-data-pipeline)
 
-    Exploratory dashboard analyzing Brent vs WTI oil price differentials using automated ETL workflows.
+Hands-on Azure Data Engineering project implementing an event-driven pipeline using **Azure Event Hub, Azure Functions, Azure Data Lake Gen2, and Medallion Architecture**.
+
+The project demonstrates real-time ingestion, progressive data validation, stateful modeling through `current_orders`, and batch aggregation into business-ready Gold metrics.
+
+**Key concepts:** Azure Functions, Event Hub, ADLS Gen2, Medallion Architecture, JSON data lake, snapshot modeling, batch aggregation.
+
+### 2. [SQL Server Recovery & Validation Famework](https://github.com/danlevimb/sql-server-recovery-validation-framework)
+
+Production-oriented Backup & Recovery framework for SQL Server environments.
+
+The project automates backup orchestration, restore-chain construction, restore validation, and point-in-time recovery testing, focusing on reliability, traceability, and operational resilience.
+
+**Key concepts:** SQL Server, backup chains, restore validation, PITR, RPO/RTO, automation, data reliability.
+
+### 3. [CallMeMaybe](https://github.com/danlevimb/CallMeMaybe)
+
+Telecom analytics project focused on user behavior analysis over a large-scale event dataset.
+
+The project includes data ingestion, transformation, feature engineering, and modeling to extract insights from telecom user activity.
+
+**Key concepts:** data analysis, ETL, feature engineering, event data, telecom analytics.
+
+---
+
+## 📊 Analytics & Dashboards
+
+- **[Energy Multimarket Dashboard](https://public.tableau.com/app/profile/danlevimb/viz/Oil_prices_dash/Dashboard1)** — Exploratory dashboard analyzing Brent vs WTI oil price differentials using automated ETL workflows.
+
 ---
 
 ## 🤝 Let’s connect
-- Open to Data Engineering opportunities involving scalable SQL systems, ETL automation, and reliable data infrastructure.
-- If you want to discuss performance tuning, ETL workflow automation, restore validation strategies, or production-grade data systems, ping me on LinkedIn or email.
 
----
+- Open to Data Engineering opportunities involving scalable SQL systems, ETL automation, event-driven pipelines, and reliable data infrastructure.
+- If you want to discuss performance tuning, ETL workflow automation, restore validation strategies, or production-grade data systems, ping me on LinkedIn or email.
