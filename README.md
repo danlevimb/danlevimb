@@ -69,23 +69,17 @@ Hands-on Azure Data Engineering project implementing an event-driven pipeline us
 
 The project demonstrates real-time ingestion, progressive data validation, stateful modeling through `current_orders`, and batch aggregation into business-ready Gold metrics.
 
-**Key concepts:** Azure Functions, Event Hub, ADLS Gen2, Medallion Architecture, JSON data lake, snapshot modeling, batch aggregation.
-
 ### 2. [SQL Server Recovery & Validation Famework](https://github.com/danlevimb/sql-server-recovery-validation-framework)
 
 Production-oriented Backup & Recovery framework for SQL Server environments.
 
 The project automates backup orchestration, restore-chain construction, restore validation, and point-in-time recovery testing, focusing on reliability, traceability, and operational resilience.
 
-**Key concepts:** SQL Server, backup chains, restore validation, PITR, RPO/RTO, automation, data reliability.
-
 ### 3. [CallMeMaybe](https://github.com/danlevimb/CallMeMaybe)
 
 Telecom analytics project focused on user behavior analysis over a large-scale event dataset.
 
 The project includes data ingestion, transformation, feature engineering, and modeling to extract insights from telecom user activity.
-
-**Key concepts:** data analysis, ETL, feature engineering, event data, telecom analytics.
 
 ---
 
