@@ -1,9 +1,12 @@
 <!-- Profile Header -->
-<h1 align="center">Welcome to my GitHub page! I'm Dan</h1>
+<h1 align="center">Dan Levi — Data Engineer</h1>
 
 <p align="center">
-  <b>Engineering reliable data infrastructure, event-driven pipelines, and automation-driven SQL systems.</b><br>
-  Designing resilient data systems with a focus on data quality, traceability, and operational reliability.
+  <b>SQL Server & ETL foundations → Azure Data Engineering → Reliable, observable data systems.</b>
+</p>
+
+<p align="center">
+  Data infrastructure • Reliability • Azure • Streaming • Lakehouse • Operational analytics
 </p>
 
 <p align="center">
@@ -21,75 +24,131 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danlevimb&label=Visitors&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ## 👨🏻‍💻 About me
 
-- Problem-solver, meticulous and improvement-driven. I listen more than I speak; when I do, I aim for clarity and precision.
-- 20+ years designing, optimizing, and supporting SQL-based data systems, ETL workflows, and operational data processes.
-- Passionate about clean, scalable solutions that make systems **“one second faster.”**
-- Recently completed a **Data Analyst Bootcamp (TripleTen)** and currently expanding into cloud-native Data Engineering practices.
+I’m a Data Engineer with a long-standing background in **SQL Server, ETL, data infrastructure, and operational reliability**, now extending that foundation into modern Azure Data Engineering.
+
+My portfolio follows a deliberate progression:
+
+```text
+SQL Server / ETL / operational reliability
+                ↓
+Cloud ingestion and orchestration
+                ↓
+Lakehouse transformation and history
+                ↓
+Analytical serving
+                ↓
+Security / IaC / monitoring / alerting
+                ↓
+Real-time reliability / state / observability
+```
+
+The recurring theme across my work is **reliability**: knowing what arrived, what changed, what failed, what state is true, and what downstream consumers can trust.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧭 Engineering focus
 
-<p>
-  <img src="https://img.shields.io/badge/IELTS-6.0-white" />
-</p>
+- **Data infrastructure & reliability** — traceability, recoverability, data quality, observability, failure handling, and operational clarity.
+- **SQL Server & ETL** — T-SQL, SSIS, performance tuning, backup/recovery, HA/DR, and production support.
+- **Azure Data Engineering** — ADF, ADLS Gen2, Databricks, Delta Lake, Synapse Serverless SQL, Event Hubs, KQL, Azure Monitor, and Managed Identity.
+- **Production readiness** — RBAC, Key Vault, Bicep, GitHub Actions validation, diagnostics, alerts, and cost-aware resource decisions.
+- **Real-time analytics** — event quality, canonicalization, integrity vs timeliness, state reconstruction, Gold serving, and operational observability.
+
+---
+
+## 🛠️ Core technologies
 
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server%20%2F%20T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/ETL%20%2F%20SSIS-1F2430?logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Lake-1F2430?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADF-0078D4" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-1F2430" />
+  <img src="https://img.shields.io/badge/Synapse%20Serverless-0078D4" />
+  <img src="https://img.shields.io/badge/Event%20Hubs-0078D4" />
+  <img src="https://img.shields.io/badge/KQL-1F2430" />
+  <img src="https://img.shields.io/badge/Bicep-0078D4" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Flagship Azure Data Engineering projects
 
-- Building Azure-based event-driven data pipelines using Medallion Architecture.
-- Developing a production-oriented SQL Server Backup & Recovery Automation Framework.
-- Strengthening cloud-native Data Engineering practices with Python, Azure Functions, Event Hub, and Data Lake Storage.
+### 1. [Azure Real-Time Analytics Pipeline](https://github.com/danlevimb/azure-real-time-analytics-pipeline)
 
----
+Real-time Azure Data Engineering pipeline using **Event Hubs + KQL** with Raw / Parsed / Canonical analytical layers, stream integrity and timeliness analysis, Raw-to-Canonical reconciliation, state reconstruction, Gold serving, controlled failure scenarios, and a four-page operational dashboard.
 
-## 📌 Data Engineering Projects
+**What it proves:** real-time analytical engineering, stream reliability, event semantics, state modeling, and operational observability.
 
-### 1. [Azure Event-Driven Data Pipeline](https://github.com/danlevimb/azure-event-driven-data-pipeline)
+### 2. [Production-Ready Azure Data Pipeline](https://github.com/danlevimb/production-ready-azure-data-pipeline)
 
-Hands-on Azure Data Engineering project implementing an event-driven pipeline using **Azure Event Hub, Azure Functions, Azure Data Lake Gen2, and Medallion Architecture**.
+Production-readiness project focused on **Managed Identity, RBAC, Key Vault, Bicep, GitHub Actions validation, Log Analytics, KQL diagnostics, Azure Monitor alerts, and failure handling** around a small ADF ingestion pipeline.
 
-The project demonstrates real-time ingestion, progressive data validation, stateful modeling through `current_orders`, and batch aggregation into business-ready Gold metrics.
+**What it proves:** operational maturity beyond a pipeline that merely “works.”
 
-### 2. [SQL Server Recovery & Validation Famework](https://github.com/danlevimb/sql-server-recovery-validation-framework)
+### 3. [Azure Databricks Delta Lakehouse](https://github.com/danlevimb/azure-databricks-delta-lakehouse)
 
-Production-oriented Backup & Recovery framework for SQL Server environments.
+Lakehouse project using **PySpark + Delta Lake** with Bronze / Silver / Gold layers, MERGE, SCD Type 2, Time Travel, rejected records, and validation reporting.
 
-The project automates backup orchestration, restore-chain construction, restore validation, and point-in-time recovery testing, focusing on reliability, traceability, and operational resilience.
-
-### 3. [CallMeMaybe](https://github.com/danlevimb/CallMeMaybe)
-
-Telecom analytics project focused on user behavior analysis over a large-scale event dataset.
-
-The project includes data ingestion, transformation, feature engineering, and modeling to extract insights from telecom user activity.
+**What it proves:** modern transformation, historical modeling, data quality, and Lakehouse engineering.
 
 ---
 
-## 📊 Analytics & Dashboards
+## 🧩 Supporting Azure projects
 
-- **[Energy Multimarket Dashboard](https://public.tableau.com/app/profile/danlevimb/viz/Oil_prices_dash/Dashboard1)** — Exploratory dashboard analyzing Brent vs WTI oil price differentials using automated ETL workflows.
+### [Azure ADF Incremental Ingestion Framework](https://github.com/danlevimb/azure-adf-incremental-ingestion-framework)
+
+Metadata-driven ADF ingestion framework integrating SQL Server and file sources with control tables, watermarks, incremental loading, retry/failure validation, and operational monitoring.
+
+### [Azure Synapse Serverless Serving Layer](https://github.com/danlevimb/azure-synapse-serverless-serving-layer)
+
+SQL serving layer over ADLS Gen2 using Synapse Serverless SQL, external tables, reporting views, data-quality checks, CETAS, and cost-aware querying.
+
+### [Azure Event-Driven Data Pipeline](https://github.com/danlevimb/azure-event-driven-data-pipeline)
+
+Foundation event-driven project using Event Hub, Azure Functions, ADLS Gen2, layered validation, stateful modeling, and Gold aggregation.
+
+---
+
+## 🛡️ SQL Server reliability project
+
+### [SQL Server Recovery & Validation Framework](https://github.com/danlevimb/sql-server-recovery-validation-framework)
+
+Production-oriented framework for backup orchestration, restore-chain construction, restore validation, point-in-time recovery testing, and auditability.
+
+This project represents the operational reliability mindset that also runs through my Azure portfolio.
+
+---
+
+## 📊 Analytics
+
+- **[Energy Multimarket Dashboard](https://public.tableau.com/app/profile/danlevimb/viz/Oil_prices_dash/Dashboard1)** — Brent vs WTI exploratory dashboard built from an automated ETL workflow.
+- Additional analytics work includes customer churn, A/B testing, telecom behavior analysis, SQL analysis, and Tableau reporting.
+
+---
+
+## 🎯 Current professional direction
+
+I’m focused on **Data Engineering roles centered on reliable data infrastructure**, especially environments that value:
+
+- SQL Server and ETL depth.
+- Azure Data Engineering.
+- Data reliability and observability.
+- Production-aware pipeline design.
+- Real-time and event-driven systems.
+- Clear technical documentation and operational ownership.
+
+The next technical capability on my roadmap is **data governance and lineage**, but my current priority is turning the completed portfolio into a concise recruiter-facing and interview-ready story.
 
 ---
 
 ## 🤝 Let’s connect
 
-- Open to Data Engineering opportunities involving scalable SQL systems, ETL automation, event-driven pipelines, and reliable data infrastructure.
-- If you want to discuss performance tuning, ETL workflow automation, restore validation strategies, or production-grade data systems, ping me on LinkedIn or email.
+If your team is working on data infrastructure, Azure pipelines, SQL Server modernization, streaming analytics, or reliability-heavy data systems, feel free to reach out on LinkedIn or email.
